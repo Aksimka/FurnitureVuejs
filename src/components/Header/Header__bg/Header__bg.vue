@@ -28,14 +28,14 @@ export default {
     left: 0
     width: 55%
     height: 100%
-    background: url("/dist/images/bg1.jpg") center no-repeat / cover
+    background: url("/../images/bg1.jpg") center no-repeat / cover
 .header-bg__second
     position: absolute
     bottom: -40px
     right: 0
     width: 45%
     height: 110%
-    background: url("/dist/images/bg2.jpg") center no-repeat / cover
+    background: url("/../images/bg2.jpg") center no-repeat / cover
 
 .header-bg__layout
     position: absolute
